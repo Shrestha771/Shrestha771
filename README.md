@@ -1,7 +1,6 @@
 # Hi, I'm Shrestha Roy
 
- Undergraduate student with a strong academic background  
- Interested in Web Development, Backend Systems, and AI-based solutions  
+ Undergraduate student with a strong interest in Web Development, Backend Systems, and AI-based solutions  
  Experienced in team-collaborated projects and hackathon environments  
 
 ---
